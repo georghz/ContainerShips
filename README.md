@@ -28,13 +28,9 @@ In this section, I have outlined important assumptions made during the assignmen
 # Tasks and Documentation
 Here, I have documented my approach to each task, including the functions used and their roles in the code.
 
-Task 1-3: Container Data Structure
-
-Task 4 & 6: File Handling
-
-Task 5 & 7: Container Loading
-
-Task 8 -10: Ship Balance and Weight Calculation
-
-Task 11 & 12: Crane Operations
+- Task 1-3: Container Data Structure
+- Task 4 & 6: File Handling
+- Task 5 & 7: Container Loading
+- Task 8 -10: Ship Balance and Weight Calculation
+- Task 11 & 12: Crane Operations
 
