@@ -4,12 +4,11 @@ In this assignment, we optimize container loading on cargo ships, ensuring effic
 # Presentation of the Problem
 You are tasked with designing a program to manage container loading and unloading on cargo ships for Trondheim International Shipping (TIS). This assignment focuses on processing large datasets using Python.
 
-# Tasks
-Containers
+# Containers
 Task 1-3: Container Data Structure
 In this section, I have designed a data structure for containers and implemented set and get functions.
 
-# Task 4 & 6: File Handling
+Task 4 & 6: File Handling
 I have implemented functions to write containers to a file and load containers from a file in TSV format.
 
 # Ships
