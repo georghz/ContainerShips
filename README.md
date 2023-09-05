@@ -25,16 +25,16 @@ I have calculated the time required to load the ship using one crane and made as
 # Assumptions
 In this section, I have outlined important assumptions made during the assignment, such as ship dimensions, stacking rules, and crane operations.
 
-# Documentation
-# Logic
-I have provided an overview of the assignment's logic, including the structure of containers, ships, and sections.
-
 # Tasks and Documentation
 Here, I have documented my approach to each task, including the functions used and their roles in the code.
 
 Task 1-3: Container Data Structure
+
 Task 4 & 6: File Handling
+
 Task 5 & 7: Container Loading
+
 Task 8 -10: Ship Balance and Weight Calculation
+
 Task 11 & 12: Crane Operations
 
