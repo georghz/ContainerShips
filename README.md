@@ -1,5 +1,5 @@
 # ContainerShips
-In this assignment, we optimize container loading on cargo ships, ensuring efficient utilization of space, weight distribution, and ship stability through Python-based data structures and algorithms
+Optimizing container loading on cargo ships, ensuring efficient utilization of space, weight distribution, and ship stability through Python-based data structures and algorithms
 
 # Presentation of the Problem
 You are tasked with designing a program to manage container loading and unloading on cargo ships for Trondheim International Shipping (TIS). This assignment focuses on processing large datasets using Python.
